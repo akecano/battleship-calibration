@@ -4,7 +4,7 @@ Battleship calibration service
 
 # get dependencies
 
-npm init
+npm i
 
 # development server
 
